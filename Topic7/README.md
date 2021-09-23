@@ -2,7 +2,7 @@
 -----------------------
 ***Part 1***
 
-Kmeans cluster analysis Python file: DSC540_0500_Topic7_KMeansCluster.ipynb
+Kmeans cluster analysis Python file: DSC540_0500_Topic7_KMeansCluster.ipynb.    
 Python file output result in pdf: DSC540_0500_Topic7_KMeansCluster_PyCodeResult.pdf
 
 ***Part 2***
