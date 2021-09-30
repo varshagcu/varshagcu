@@ -1,15 +1,10 @@
-## Below are the files for DSC-540-O500 Topic 7
------------------------
-***Part 1***
+## Below are the files for DSC-540-O500 Topic 8
+-----------------------------------------------
+Ensemble Classifier ; DSC540_0500_EnsembleClassifier.docx
 
-Kmeans cluster analysis Python file: DSC540_0500_Topic7_KMeansCluster.ipynb.    
-Python file output result in pdf: DSC540_0500_Topic7_KMeansCluster_PyCodeResult.pdf
+Ensemble classifier Python file: DSC540_0500_Topic8_EnsembleClassifier.ipynb.    
 
-***Part 2***
+** My jupyter notebook crashed. Raised a request to the Anaconda community. I was not able to run the whole code and generate
+the output document **
 
-Output detailed Explanation: DSC540_0500_Topic7_ResultExplanation.docx
-
------------------------
-**To Execute the file**
-
-The file can be opened in Jupytor notebook and execute to view the output
+***End***
