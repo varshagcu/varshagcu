@@ -4,7 +4,7 @@ Ensemble Classifier : DSC540_0500_EnsembleClassifier.docx
 
 Ensemble classifier Python file: DSC540_0500_Topic8_EnsembleClassifier.ipynb.    
 
-* My jupyter notebook crashed. Raised a request to the Anaconda community. I was not able to run the whole code and generate
+* Note: My jupyter notebook crashed. Raised a request to the Anaconda community. I was not able to run the whole code and generate
 the output document *
 
 ***End***
