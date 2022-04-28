@@ -1,14 +1,14 @@
 ## Below are the files for Capstone Project
 -----------------------
-***Python files***
-demography_change_home_price.py
-load_demography.py
-load_uszips.py
-load_zillow_demography_corr.py
-load_zillow_demography_denorm.py
-preprocess_zillow_source_data.py
-***Tableau file***
-HomePriceCorrelations.twbx
+***Python files*** 
+demography_change_home_price.py 
+load_demography.py 
+load_uszips.py 
+load_zillow_demography_corr.py 
+load_zillow_demography_denorm.py 
+preprocess_zillow_source_data.py 
+***Tableau file*** 
+HomePriceCorrelations.twbx 
 -----------------------
 **To Execute the file**
 
