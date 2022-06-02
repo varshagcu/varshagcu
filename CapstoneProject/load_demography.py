@@ -3,7 +3,7 @@ import pymysql
 import pandas as pd
 import os
 
-'load the demography data
+#load the demography data
 directory = '\\Users\\varshadamodaran\\CapstoneProject\\AmericanCommunitySurvey\\4.demography'
 # directory = '/home/ec2-user/demography'
 tableName = 'demography_dim'

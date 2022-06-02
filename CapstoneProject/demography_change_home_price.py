@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import time
 
-'load the data from census beauro
+#load the data from census beauro
 def get_demography_data(var_name,var_label):
     # key for API
     key = 'b23793a57bc7bd8ac9459fc066cddbc727da8a5e'

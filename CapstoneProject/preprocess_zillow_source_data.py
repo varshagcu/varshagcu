@@ -20,7 +20,7 @@ for filename in os.listdir(directory):
 	else:
 		continue
 
-        'preprocess the zillow source data with required fields
+        #preprocess the zillow source data with required fields
 	df = pd.read_csv(f)
 
 	value_yr = range(2011,2020)
