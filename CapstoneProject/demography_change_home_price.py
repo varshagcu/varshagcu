@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import time
 
-
+'load the data from census beauro
 def get_demography_data(var_name,var_label):
     # key for API
     key = 'b23793a57bc7bd8ac9459fc066cddbc727da8a5e'
@@ -54,7 +54,6 @@ for index, row in var_df.iterrows():
     new_df['Variable_Label'] = var_label
     print(new_df.head())
     print(new_df.columns)
-
 
     new_df[['Zip', 'year','Population','Avg_value','Variable_Label','Concept']].to_csv('\\Users\\varshadamodaran\\CapstoneProject\\AmericanCommunitySurvey\\analysis\\new\\'+concept+'_'+ var_label+'.csv',index=False)
 

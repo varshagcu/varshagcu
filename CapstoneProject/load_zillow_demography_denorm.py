@@ -4,6 +4,7 @@ import pandas as pd
 
 import os
 
+'cleanup the demography data and remove extra columns
 demography_dir = "\\Users\\varshadamodaran\\CapstoneProject\\AmericanCommunitySurvey\\4.demography"
 # demography_dir = '/home/ec2-user/demography/'
 demography_df = pd.read_csv(demography_dir+'demography.csv')
