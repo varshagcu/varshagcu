@@ -8,7 +8,7 @@ import datetime
 directory = '\\Users\\varshadamodaran\\CapstoneProject\\API\\zillow\\'
 # directory = '/home/ec2-user/zillow'
 
-# iterate over files in
+# iterate over files in 
 # that directory
 for filename in os.listdir(directory):
 

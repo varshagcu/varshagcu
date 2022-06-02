@@ -4,7 +4,7 @@ import pandas as pd
 import os
 import numpy as np
 
-#find the correlation based on demography and zip codes
+#find the correlation based on demography and zip codes 
 def get_corr(df,county_name,year):
     return df[county_name,year]
 
